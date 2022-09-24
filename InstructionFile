@@ -1,3 +1,51 @@
-bruhhh
-burrhhbb
-bruh
+Instructions On How To Use DiamondScript.py:
+
+Youtube Search Commands:
+Example: "Diamond play updog impress you"
+search_keywords = ['diamond search on youtube ',
+                   'diamond search up on youtube ',
+                   'diamond look up on youtube ',
+                   'diamond search up on youtube ',
+                   'diamond play on youtube ',
+                   'diamond find on youtube ',
+                   'diamond find the song on youtube named ',
+                   'diamond play ']
+
+Time Commands:
+Example: "Diamond what time is it"
+time_keywords = ['diamond what is the time',
+                 "diamond what's the time",
+                 'diamond what time is it']
+
+Microphone Test Commands:
+Example: "Diamond can i be heard"
+microphone_keywords = ['diamond test for microphone input',
+                               'diamond this is a microphone test',
+                               'diamond testing microphone',
+                               'diamond testing for microphone input',
+                               'diamond can i be heard',
+                               'diamond can you hear me',
+                               'diamond are you there']
+
+Generic Response Commands:
+Example: "Diamond nae nae"
+generic_keyword = ['diamond how are you',
+                           'diamond how are you doing',
+                           'diamond nae nae']
+
+Web Search Commands:
+Able to search the web with default browser.
+Example: "Diamond search 13 times 4"
+
+System Commands:
+Turn off or restart your pc.
+Example: "diamond turn off my computer" (will run shutdown /s on pc.)
+Example: "diamond restart my computer" (will run shutdown /r on pc.)
+
+Downloading Youtube Commands:
+Able to download Youtube url links copied to the clipboard as .mp3, highest-quality .mp4, and lowest-quality .mp4
+Example: "diamond convert youtube to video" (will download youtube link on clipboard as highest quality .mp4)
+Example: "diamond convert youtube to audio" (will download youtube link on clipboard as .mp3)
+Example: "diamond convert youtube to bad video" (will download youtube link on clipboard as lowest quality .mp4)
+
+Opening Created Program Commands
