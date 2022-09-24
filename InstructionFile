@@ -48,4 +48,12 @@ Example: "diamond convert youtube to video" (will download youtube link on clipb
 Example: "diamond convert youtube to audio" (will download youtube link on clipboard as .mp3)
 Example: "diamond convert youtube to bad video" (will download youtube link on clipboard as lowest quality .mp4)
 
-Opening Created Program Commands
+Custom Shortcut Commands
+Able to save file's paths to be opened later on by name of choice using voice commands.
+Example: (Assuming complete path to a file is on the clipboard) "Diamond save program as steam"
+Example: (Assuming shortcut file has been made) "Diamond open steam"
+
+Stopping Script Commands:
+Able to stop DiamondScript.py from running using voice commands.
+Example: "Diamond shut off"
+Example: "Diamond stop script"
